@@ -8,7 +8,7 @@ So I converted a good one from Python 2 to Python 3 with some tools and, "yay!" 
 python -m venv .venv 
 ^if that doesn't work the first time, run it again, maybe add on a 'sudo' or maybe run it in PowerShell.
 
-.\\.venv\scripts\activate
+.venv\scripts\activate
 
 python -m pip install --upgrade pip
 
