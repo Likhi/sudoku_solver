@@ -27,4 +27,5 @@ python solve_script.py ...6..4..7....36......91.8...........5.18...3...3.6.45.4.
 
 ## Anything else?
 
-You can look up the grid options in grids.py.
+You can look up the grid options in grids.py. There's also a lot more sample girds in top95.txt.
+Uses https://norvig.com/sudoku.html.
